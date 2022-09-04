@@ -4,6 +4,8 @@
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 30 L01 Scele related
 ZCZC W00 10 L03 Github related
-ZCZC W00 15 L04 Github Pages related
+ZCZC W00 20 L04 Github Pages related
+ZCZC W00 20 L05 Quiz related including studying
 ZCZC W00 60 L09 Weekly assignments
+ZCZC W00 30 L32 YouTube: watching OS related topics
 ZCZC W00 200 L99 Face-to-face meeting
