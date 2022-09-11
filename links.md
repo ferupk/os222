@@ -4,7 +4,6 @@ permalink: LINKS/
 
 [HOMEPAGE]({{site.baseurl}}/) | [LINKS]({{site.baseurl}}/LINKS/) | [GITHUB]({{site.githubrepo}}) | [LOG]({{site.baseurl}}{{site.mylog}}) | [TARBALL]({{site.tarball}})
 
----
 ## LINKS
 Here are some neat links to check out sometimes!
 
