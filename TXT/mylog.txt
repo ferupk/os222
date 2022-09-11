@@ -11,9 +11,14 @@ ZCZC W00 30 L32 YouTube: watching OS related topics
 ZCZC W00 200 L99 Face-to-face meeting
 ZCZC W01 30 L01 SCELE/Discord related
 ZCZC W01 200 L02 ZOOM meetings related
-ZCZC W01 15 L03 GitHub and git related
+ZCZC W01 35 L03 GitHub and git related
+ZCZC W01 80 L04 Github Pages related
 ZCZC W01 20 L05 Quiz related including studying
-ZCZC W01 30 L06 References/Browsing/GSGS related
+ZCZC W01 60 L06 References/Browsing/GSGS related
+ZCZC W01 20 L07 Demo related
+ZCZC W01 60 L09 Weekly assignments
 ZCZC W01 40 L23 Bash, Regex, SED, AWK
 ZCZC W01 10 L27 SSH, key-gen, putty, winscp
+ZCZC W01 10 L40 TXT/ related in general
+ZCZC W01 20 L41 TXT/mylog.txt related
 ZCZC W01 35 L62 Install Virtual Debian Guest
