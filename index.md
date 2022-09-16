@@ -1,7 +1,7 @@
 ---
 ---
 
-[HOMEPAGE]({{site.baseurl}}/) | [LINKS]({{site.baseurl}}/LINKS/) | [GITHUB]({{site.githubrepo}}) | [LOG]({{site.baseurl}}{{site.mylog}}) | [TARBALL]({{site.tarball}})
+[HOMEPAGE]({{site.baseurl}}/) | [LINKS]({{site.baseurl}}/LINKS/) | [GITHUB]({{site.githubrepo}}) | [LOG]({{site.baseurl}}{{site.mylog}}) | [PUBLIC KEY]({{site.baseurl}}{{site.mypubkey}}) | [TARBALL]({{site.tarball}})
 
 ## Welcome!
 This is a repository for Operating Systems class, term 2022-2. I'm {{site.author}}, nice to meet you.
