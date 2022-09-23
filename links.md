@@ -49,6 +49,10 @@ Here are some neat links to check out sometimes!
 
    This article by Aniket Marwade provides an overview on 5 different file allocation methods. The explanations are brief but informative, and visual examples are provided to give readers a better understanding of what's going on. The pros and cons of each method are also listed to provide a comparison on the capabilities each method has.
 
+3. [Writing a FUSE Filesystem: a Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
+
+   This web document by Joseph J. Pfeiffer, Jr., Ph.D. serves as both an introduction to the FUSE interface and a tutorial on how you can write your own filesystem using FUSE. It's quite the extensive read and an interesting personal recount which gives the reader a general idea on how to implement callbacks, data access, and protections in a FUSE filesystem.
+
 ---
 
 © {{site.copyright}} - {{site.author}} - Version: {{site.version}}
