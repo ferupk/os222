@@ -39,6 +39,16 @@ Here are some neat links to check out sometimes!
 
    Gnu Privacy Guard or GnuPG is a command line tool used to encrypt data in accordance to the OpenPGP standard. GnuPG's official site provides a documentation section for any inquiries regarding the software. It hosts guides, FAQs, and numerous options for community support.
 
+### Week 03
+
+1. [Linux File Permissions: Commands with Examples](https://www.youtube.com/watch?v=D-VqgvBMV7g)
+
+   This tutorial video by Code99 introduces you to the concept of permissions for files in Linux. They delve into the concept of user types and the three permissions a user or group might have: reading a file, writing on a file, and executing a file. These permissions can be altered using the `chmod` command with guides to represent permissions in either numeric or symbolic value. Another command — `chown` — is used to change the ownership of files to another user or group.
+
+2. [File Allocation Methods in OS](https://www.scaler.com/topics/file-allocation-methods-in-os/)
+
+   This article by Aniket Marwade provides an overview on 5 different file allocation methods. The explanations are brief but informative, and visual examples are provided to give readers a better understanding of what's going on. The pros and cons of each method are also listed to provide a comparison on the capabilities each method has.
+
 ---
 
 © {{site.copyright}} - {{site.author}} - Version: {{site.version}}
