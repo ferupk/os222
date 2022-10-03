@@ -53,6 +53,24 @@ Here are some neat links to check out sometimes!
 
    This web document by Joseph J. Pfeiffer, Jr., Ph.D. serves as both an introduction to the FUSE interface and a tutorial on how you can write your own filesystem using FUSE. It's quite the extensive read and an interesting personal recount which gives the reader a general idea on how to implement callbacks, data access, and protections in a FUSE filesystem.
 
+### Week 04
+
+1. [Contiguous and Non-Contiguous Allocation](https://www.javatpoint.com/contiguous-and-non-contiguous-memory-allocation-in-operating-system)
+
+   An article about contiguous and non-contiguous memory allocation in a compare-and-contrast format. After a short overview, the writer delves into the key differences of each method. A table of comparisons are also given, providing details on what aspects each method is better at.
+
+2. [Memory Fragmentation, Your Worst Nightmare](https://www.softwareverify.com/blog/memory-fragmentation-your-worst-nightmare/)
+
+   Stephen Kellett at Software Verify gives an extensive view of memory fragmentation and it's effect on running computer programs. The blog post details common causes of the problem as well as symptoms that can help the reader identify when a program is hindered by fragmentation. Various solutions to mitigate the effects of fragmentation are also provided.
+
+3. [Segmented and Paged Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)
+
+   A quick video rundown on both segmented and paged memory, including it's application and characteristics. Explanations are complemented with simple yet effective visuals to better convey the topic.
+
+### Misc.
+
+* [hello world 💻](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)
+
 ---
 
 © {{site.copyright}} - {{site.author}} - Version: {{site.version}}
