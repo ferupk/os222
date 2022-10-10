@@ -67,7 +67,21 @@ Here are some neat links to check out sometimes!
 
    A quick video rundown on both segmented and paged memory, including it's application and characteristics. Explanations are complemented with simple yet effective visuals to better convey the topic.
 
-### Misc.
+### Week 05
+
+1. [Full Introduction to NUMA](https://www.minitool.com/lib/numa.html#software-support-of-numa-5125)
+
+   TechTarget contributor Rahul Awati goes into the Non-uniform Memory Access (NUMA) architecture, explaining how it works and its use in symmetric multiprocessing systems. The pros and cons of the architecture alongside comparisons between NUMA and UMA architecture are also brought up.
+
+2. [Page Replacement Algorithms in Operating Systems](https://workat.tech/core-cs/tutorial/page-replacement-algorithms-in-operating-system-os-q0pioxh7iym5)
+
+   A rundown of three different page replacement algorithms: First In First Out (FIFO), Optimal, and Least Recently Used (LRU). An example case is shown for each algoritms to help compare their inner workings and efficiency.
+
+3. [Second Chance Algorithm](https://www.youtube.com/watch?v=voiL2-nQmlU)
+
+   This video from the channel BBarters explains the Second Chance algorithm for replacing pages. The lecturer uses a main example to demonstrate how the algorithm works and what results can be achieve in terms of the number of page faults.
+
+### Miscellaneous
 
 * [hello world 💻](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)
 
