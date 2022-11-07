@@ -88,6 +88,7 @@ Here are some neat links to check out sometimes!
    This TutorialsPoint article goes over the creation and termination of processes using the fork() and exit() system calls.
 
 2. [What Is Multithreading: A Guide to Multithreaded Applications](https://totalview.io/blog/multithreading-multithreaded-applications)
+
    TotalView senior director Bill Burns informs the reader about the concept of multithreading and its applications. Mr. Burns also notes the issues one might encounter when developing multithreaded applications and how to go over debugging them.
 
 ### Miscellaneous
