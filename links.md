@@ -80,6 +80,7 @@ Here are some neat links to check out sometimes!
 3. [Second Chance Algorithm](https://www.youtube.com/watch?v=voiL2-nQmlU)
 
    This video from the channel BBarters explains the Second Chance algorithm for replacing pages. The lecturer uses a main example to demonstrate how the algorithm works and what results can be achieve in terms of the number of page faults.
+
 ### Week 06
 
 1. [Process Creation & Termination](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_process_creation_termination.htm)
@@ -87,7 +88,6 @@ Here are some neat links to check out sometimes!
    This TutorialsPoint article goes over the creation and termination of processes using the fork() and exit() system calls.
 
 2. [What Is Multithreading: A Guide to Multithreaded Applications](https://totalview.io/blog/multithreading-multithreaded-applications)
-
    TotalView senior director Bill Burns informs the reader about the concept of multithreading and its applications. Mr. Burns also notes the issues one might encounter when developing multithreaded applications and how to go over debugging them.
 
 ### Miscellaneous
