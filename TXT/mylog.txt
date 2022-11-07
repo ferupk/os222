@@ -89,9 +89,10 @@ ZCZC W05 25 L43 TXT/myrank.txt related, including peer review
 ZCZC W05 5 L44 TXT/myscript.sh related
 ZCZC W05 10 L62 Backup Virtual Debian Guest
 ZCZC W06 20 L01 SCELE/Discord related
-ZCZC W06 5 L03 Github and git related
+ZCZC W06 15 L03 Github and git related
+ZCZC W06 25 L04 Github Pages Related
 ZCZC W06 30 L05 Quiz related including studying
-ZCZC W06 30 L06 References/Browsing/GSGS related
+ZCZC W06 50 L06 References/Browsing/GSGS related
 ZCZC W06 10 L22 Linux CLI including tar, etc.
 ZCZC W06 10 L25 C-language including Make
 ZCZC W06 10 L26 GnuPG, key-gen, encrypt/decrypt
