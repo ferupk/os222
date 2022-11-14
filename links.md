@@ -91,6 +91,20 @@ Here are some neat links to check out sometimes!
 
    TotalView senior director Bill Burns informs the reader about the concept of multithreading and its applications. Mr. Burns also notes the issues one might encounter when developing multithreaded applications and how to go over debugging them.
 
+### Week 07
+
+1. [Synchronization With Semaphores](https://docs.oracle.com/cd/E19120-01/open.solaris/816-5137/sync-11157/index.html)
+
+   Oracle's Multithreaded Programming Guide includes a section on semaphores and its use in synchronizing processes. The page covers the basic concepts of a semaphore and how to implement them in your code.
+
+2. [Dining Philosophers Problem](https://www.scaler.com/topics/operating-system/dining-philosophers-problem-in-os/)
+
+   The Dining Philosophers Problem is a problem in Operating Systems to demonstrate how incorrect use of limited resources can result in a deadlock. Scaler writer Apurva Sharma delves into the problem and showcases a solution involving the use of semaphores.
+
+3. [Resource Allocation Graph | Deadlock Detection](https://www.gatevidyalay.com/resource-allocation-graph-deadlock-detection/)
+
+   A compact description on how to use the resource-allocation graph to detect deadlocks within a system.
+
 ### Miscellaneous
 
 * [hello world 💻](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)
