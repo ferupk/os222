@@ -101,7 +101,7 @@ Here are some neat links to check out sometimes!
 
    The Dining Philosophers Problem is a problem in Operating Systems to demonstrate how incorrect use of limited resources can result in a deadlock. Scaler writer Apurva Sharma delves into the problem and showcases a solution involving the use of semaphores.
 
-3. [Resource Allocation Graph | Deadlock Detection](https://www.gatevidyalay.com/resource-allocation-graph-deadlock-detection/)
+3. [Resource Allocation Graph - Deadlock Detection](https://www.gatevidyalay.com/resource-allocation-graph-deadlock-detection/)
 
    A compact description on how to use the resource-allocation graph to detect deadlocks within a system.
 
