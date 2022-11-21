@@ -121,9 +121,10 @@ ZCZC W07 10 L62 Backup Virtual Debian Guest
 ZCZC W07 200 L99 Face-to-face meeting
 ZCZC W08 25 L01 SCELE/Discord related
 ZCZC W08 100 L02 ZOOM meetings related
-ZCZC W08 5 L03 Github and git related
+ZCZC W08 10 L03 Github and git related
+ZCZC W08 10 L04 Github Pages Related
 ZCZC W08 30 L05 Quiz related including studying
-ZCZC W08 80 L06 References/Browsing/GSGS related
+ZCZC W08 105 L06 References/Browsing/GSGS related
 ZCZC W08 20 L07 Demo related
 ZCZC W08 25 L21 Trying something
 ZCZC W08 20 L22 Linux CLI including tar, etc.
@@ -133,7 +134,7 @@ ZCZC W08 10 L26 GnuPG, key-gen, encrypt/decrypt
 ZCZC W08 20 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W08 90 L32 YouTube: watching OS related topics, etc.
 ZCZC W08 10 L40 TXT/ related in general
-ZCZC W08 10 L41 TXT/mylog.txt related
+ZCZC W08 15 L41 TXT/mylog.txt related
 ZCZC W08 30 L43 TXT/myrank.txt related, including peer review
 ZCZC W08 5 L44 TXT/myscript.sh related
 ZCZC W08 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
