@@ -105,6 +105,16 @@ Here are some neat links to check out sometimes!
 
    A compact description on how to use the resource-allocation graph to detect deadlocks within a system.
 
+### Week 08
+
+1. [A Guide to POSIX](https://www.baeldung.com/linux/posix)
+
+   Programming and Computer Science site Baeldung gives a comprehensive guide on the Portable Operating System Interface (POSIX).
+
+2. [Round Robin Scheduling Simulation](http://vlabs.iitb.ac.in/vlabs-dev/vlab_bootcamp/bootcamp/CRUX/labs/exp1/simulation.html)
+
+   A free-form tool that can simulate the Round Robin scheduling algorithm. Comes with a guide, analysis feature, and a test feature to practice your knowledge.
+
 ### Miscellaneous
 
 * [hello world 💻](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)
