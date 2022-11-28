@@ -115,6 +115,16 @@ Here are some neat links to check out sometimes!
 
    A free-form tool that can simulate the Round Robin scheduling algorithm. Comes with a guide, analysis feature, and a test feature to practice your knowledge.
 
+### Week 09
+
+1. [SCAN Vs C-SCAN](https://www.codingninjas.com/codestudio/library/scan-vs-c-scan-disk-scheduling)
+
+   Writer Ankit Kumar from Codestudio goes through the SCAN and C-SCAN algorithms for disk scheduling. Examples are given for both of them as well as a comparison table, highlighting the differences of each algorithm.
+
+2. [What is RAID?](https://www.javatpoint.com/what-is-raid)
+
+   This article covers the RAID (Redundant Array of Independent Disks) technique of storing data. The different levels of RAID are talked about alongside its implementations.
+
 ### Miscellaneous
 
 * [hello world 💻](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)
