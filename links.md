@@ -125,9 +125,21 @@ Here are some neat links to check out sometimes!
 
    This article covers the RAID (Redundant Array of Independent Disks) technique of storing data. The different levels of RAID are talked about alongside its implementations.
 
+### Week 10
+
+1. [What Is Direct Memory Access and How Does It Work?](https://www.minitool.com/lib/direct-memory-access.html)
+
+   A brief summary of the direct memory access (DMA) feature and how it allows subsystems and I/O devices to access the main memory independent of the CPU. The different modes of operation DMA can be are also explained.
+
+2. [Kernel I/O Subsystem](https://www.codingninjas.com/codestudio/library/kernel-i-o-subsystem)
+
+   Codestudio contributor Amisha Purswani delves into the kernel I/O subsystem and its numerous functions. The article also includes an FAQ and referral links to other articles surrounding the topic.
+
 ### Miscellaneous
 
 * [hello world 💻](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)
+
+* [one way dream ★](https://www.youtube.com/watch?v=84m1tDioabM)
 
 ---
 
