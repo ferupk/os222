@@ -156,3 +156,19 @@ ZCZC W09 20 L43 TXT/myrank.txt related, including peer review
 ZCZC W09 5 L44 TXT/myscript.sh related
 ZCZC W09 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W09 200 L99 Face-to-face meeting
+ZCZC W10 25 L01 SCELE/Discord related
+ZCZC W10 100 L02 ZOOM meetings related
+ZCZC W10 5 L03 Github and git related
+ZCZC W10 20 L05 Quiz related including studying
+ZCZC W10 80 L06 References/Browsing/GSGS related
+ZCZC W10 50 L22 Linux CLI including tar, etc.
+ZCZC W10 30 L23 Bash, Regex, SED, AWK
+ZCZC W10 250 L25 C-language including Make
+ZCZC W10 10 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W10 15 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W10 10 L40 TXT/ related in general
+ZCZC W10 5 L41 TXT/mylog.txt related
+ZCZC W10 20 L43 TXT/myrank.txt related, including peer review
+ZCZC W10 5 L44 TXT/myscript.sh related
+ZCZC W10 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W10 100 L99 Face-to-face meeting
